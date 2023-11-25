@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: FruitBucket
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: c4c42670bb182d44e8f19713001c282f,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: dd98a93a8cf3ae4498236087ce8b9e78,
     type: 2}
   udonAssembly: 
   assemblyError: 
