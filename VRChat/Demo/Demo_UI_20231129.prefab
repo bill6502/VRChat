@@ -482,7 +482,7 @@ GameObject:
   - component: {fileID: 1522736476788336840}
   - component: {fileID: 1522736476788336838}
   - component: {fileID: 1522736476788336839}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -563,7 +563,7 @@ GameObject:
   - component: {fileID: 1522736476806418994}
   - component: {fileID: 1522736476806418997}
   - component: {fileID: 1522736476806418998}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Olfactory bulbsleft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -748,7 +748,7 @@ GameObject:
   - component: {fileID: 1522736476866880873}
   - component: {fileID: 1522736476866880884}
   - component: {fileID: 1522736476866880885}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: paraflocculusright
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -930,7 +930,7 @@ GameObject:
   - component: {fileID: 1522736476886941570}
   - component: {fileID: 1522736476886941568}
   - component: {fileID: 1522736476886941569}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1011,7 +1011,7 @@ GameObject:
   - component: {fileID: 1522736476892441454}
   - component: {fileID: 1522736476892441458}
   - component: {fileID: 1522736476892441457}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: cerrebellumleft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1196,7 +1196,7 @@ GameObject:
   - component: {fileID: 1522736476903316857}
   - component: {fileID: 1522736476903316804}
   - component: {fileID: 1522736476903316805}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: mid brainright
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1378,7 +1378,7 @@ GameObject:
   - component: {fileID: 1522736476991055047}
   - component: {fileID: 1522736476991055045}
   - component: {fileID: 1522736476991055046}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1536,7 +1536,7 @@ GameObject:
   - component: {fileID: 1522736477049512226}
   - component: {fileID: 1522736477049512227}
   - component: {fileID: 1522736477049512228}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Drop/Reset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1665,7 +1665,7 @@ GameObject:
   - component: {fileID: 1522736477056889269}
   - component: {fileID: 1522736477056889267}
   - component: {fileID: 1522736477056889268}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1746,7 +1746,7 @@ GameObject:
   - component: {fileID: 1522736477135562372}
   - component: {fileID: 1522736477135562375}
   - component: {fileID: 1522736477135562368}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Olfactory tuberclesleft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2089,7 +2089,7 @@ GameObject:
   - component: {fileID: 1522736477209161198}
   - component: {fileID: 1522736477209161201}
   - component: {fileID: 1522736477209161202}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Olfactory tuberclesright
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2271,7 +2271,7 @@ GameObject:
   - component: {fileID: 1522736477239706148}
   - component: {fileID: 1522736477239706146}
   - component: {fileID: 1522736477239706147}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2348,7 +2348,7 @@ GameObject:
   - component: {fileID: 1522736477248836660}
   - component: {fileID: 1522736477248836663}
   - component: {fileID: 1522736477248836656}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: striatumleft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2530,7 +2530,7 @@ GameObject:
   - component: {fileID: 1522736477253320082}
   - component: {fileID: 1522736477253320080}
   - component: {fileID: 1522736477253320081}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2769,7 +2769,7 @@ GameObject:
   - component: {fileID: 1522736477331040191}
   - component: {fileID: 1522736477331040194}
   - component: {fileID: 1522736477331040195}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: striatumright
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2949,7 +2949,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1522736477340424522}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Handle Slide Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2987,7 +2987,7 @@ GameObject:
   - component: {fileID: 1522736477412472872}
   - component: {fileID: 1522736477412472870}
   - component: {fileID: 1522736477412472871}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3068,7 +3068,7 @@ GameObject:
   - component: {fileID: 1522736477525053765}
   - component: {fileID: 1522736477525053760}
   - component: {fileID: 1522736477525053761}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: paraflocculusleft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3250,7 +3250,7 @@ GameObject:
   - component: {fileID: 1522736477564523893}
   - component: {fileID: 1522736477564523891}
   - component: {fileID: 1522736477564523892}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3328,7 +3328,7 @@ GameObject:
   - component: {fileID: 1522736477565831604}
   - component: {fileID: 1522736477565831602}
   - component: {fileID: 1522736477565831603}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3405,7 +3405,7 @@ GameObject:
   - component: {fileID: 1522736477600651183}
   - component: {fileID: 1522736477600651186}
   - component: {fileID: 1522736477600651187}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: thalamusright
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3587,7 +3587,7 @@ GameObject:
   - component: {fileID: 1522736477615450157}
   - component: {fileID: 1522736477615450155}
   - component: {fileID: 1522736477615450156}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3668,7 +3668,7 @@ GameObject:
   - component: {fileID: 1522736477615681098}
   - component: {fileID: 1522736477615681101}
   - component: {fileID: 1522736477615681102}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: hypothalamusright
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3850,7 +3850,7 @@ GameObject:
   - component: {fileID: 1522736477633297700}
   - component: {fileID: 1522736477633297698}
   - component: {fileID: 1522736477633297699}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3928,7 +3928,7 @@ GameObject:
   - component: {fileID: 1522736477656705537}
   - component: {fileID: 1522736477656705791}
   - component: {fileID: 1522736477656705536}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4005,7 +4005,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1522736477660761784}
   - component: {fileID: 1522736477660761783}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4107,7 +4107,7 @@ GameObject:
   - component: {fileID: 1522736477661646782}
   - component: {fileID: 1522736477661646780}
   - component: {fileID: 1522736477661646781}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4263,7 +4263,7 @@ GameObject:
   - component: {fileID: 1522736477682650962}
   - component: {fileID: 1522736477682650965}
   - component: {fileID: 1522736477682650966}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: cerrebellumright
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4445,7 +4445,7 @@ GameObject:
   - component: {fileID: 1522736477702173647}
   - component: {fileID: 1522736477702173645}
   - component: {fileID: 1522736477702173646}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4523,7 +4523,7 @@ GameObject:
   - component: {fileID: 1522736477704338566}
   - component: {fileID: 1522736477704338564}
   - component: {fileID: 1522736477704338565}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4683,7 +4683,7 @@ GameObject:
   - component: {fileID: 1522736477759589612}
   - component: {fileID: 1522736477759589615}
   - component: {fileID: 1522736477759589608}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: hypothalamusleft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4865,7 +4865,7 @@ GameObject:
   - component: {fileID: 1522736477803561869}
   - component: {fileID: 1522736477803561867}
   - component: {fileID: 1522736477803561868}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4946,7 +4946,7 @@ GameObject:
   - component: {fileID: 1522736477818194432}
   - component: {fileID: 1522736477818194435}
   - component: {fileID: 1522736477818194444}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: corpus callosumright
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5207,7 +5207,7 @@ GameObject:
   - component: {fileID: 1522736477862869642}
   - component: {fileID: 1522736477862869640}
   - component: {fileID: 1522736477862869641}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5285,7 +5285,7 @@ GameObject:
   - component: {fileID: 1522736477865056225}
   - component: {fileID: 1522736477865056223}
   - component: {fileID: 1522736477865056224}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5363,7 +5363,7 @@ GameObject:
   - component: {fileID: 1522736477871586887}
   - component: {fileID: 1522736477871586885}
   - component: {fileID: 1522736477871586886}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5520,7 +5520,7 @@ GameObject:
   - component: {fileID: 1522736477923484016}
   - component: {fileID: 1522736477923484014}
   - component: {fileID: 1522736477923484015}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5599,7 +5599,7 @@ GameObject:
   - component: {fileID: 1522736477949343398}
   - component: {fileID: 1522736477949343399}
   - component: {fileID: 1522736477949343400}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Shuffle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5728,7 +5728,7 @@ GameObject:
   - component: {fileID: 1522736477955218685}
   - component: {fileID: 1522736477955218683}
   - component: {fileID: 1522736477955218684}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5809,7 +5809,7 @@ GameObject:
   - component: {fileID: 1522736477975639057}
   - component: {fileID: 1522736477975639068}
   - component: {fileID: 1522736477975639069}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: hippocampusright
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5991,7 +5991,7 @@ GameObject:
   - component: {fileID: 1522736478007363149}
   - component: {fileID: 1522736478007363147}
   - component: {fileID: 1522736478007363148}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6067,7 +6067,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1522736478079442446}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Fill Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6184,7 +6184,7 @@ GameObject:
   - component: {fileID: 1522736478090822355}
   - component: {fileID: 1522736478090822353}
   - component: {fileID: 1522736478090822354}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6265,7 +6265,7 @@ GameObject:
   - component: {fileID: 1522736478113186903}
   - component: {fileID: 1522736478113186906}
   - component: {fileID: 1522736478113186907}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: cerebrumright
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6450,7 +6450,7 @@ GameObject:
   - component: {fileID: 1522736478129460590}
   - component: {fileID: 1522736478129460593}
   - component: {fileID: 1522736478129460594}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: corpus callosumleft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6790,7 +6790,7 @@ GameObject:
   - component: {fileID: 1522736478185454814}
   - component: {fileID: 1522736478185454812}
   - component: {fileID: 1522736478185454813}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6947,7 +6947,7 @@ GameObject:
   - component: {fileID: 1522736478242144209}
   - component: {fileID: 1522736478242144207}
   - component: {fileID: 1522736478242144208}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7027,7 +7027,7 @@ GameObject:
   - component: {fileID: 1522736478244328460}
   - component: {fileID: 1522736478244328458}
   - component: {fileID: 1522736478244328461}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7145,7 +7145,7 @@ GameObject:
   - component: {fileID: 1522736478299107739}
   - component: {fileID: 1522736478299107742}
   - component: {fileID: 1522736478299107743}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: hippocampusleft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7725,7 +7725,7 @@ GameObject:
   - component: {fileID: 1522736478432016748}
   - component: {fileID: 1522736478432016751}
   - component: {fileID: 1522736478432016744}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: thalamusleft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7907,7 +7907,7 @@ GameObject:
   - component: {fileID: 1522736478440711786}
   - component: {fileID: 1522736478440711784}
   - component: {fileID: 1522736478440711785}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8064,7 +8064,7 @@ GameObject:
   - component: {fileID: 1522736478555659362}
   - component: {fileID: 1522736478555659360}
   - component: {fileID: 1522736478555659361}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8142,7 +8142,7 @@ GameObject:
   - component: {fileID: 1522736478574175070}
   - component: {fileID: 1522736478574175068}
   - component: {fileID: 1522736478574175069}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8221,7 +8221,7 @@ GameObject:
   - component: {fileID: 1522736478580262070}
   - component: {fileID: 1522736478580262071}
   - component: {fileID: 1522736478580262072}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8322,7 +8322,7 @@ GameObject:
   - component: {fileID: 1522736478580448600}
   - component: {fileID: 1522736478580448548}
   - component: {fileID: 1522736478580448603}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Functional
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8595,7 +8595,7 @@ GameObject:
   - component: {fileID: 1522736478617014372}
   - component: {fileID: 1522736478617014375}
   - component: {fileID: 1522736478617014368}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: cerebrumleft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8780,7 +8780,7 @@ GameObject:
   - component: {fileID: 1522736478649618709}
   - component: {fileID: 1522736478649618704}
   - component: {fileID: 1522736478649618705}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Olfactory bulbsright
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8965,7 +8965,7 @@ GameObject:
   - component: {fileID: 1522736478654615756}
   - component: {fileID: 1522736478654615759}
   - component: {fileID: 1522736478654615752}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: pineal glandright
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9362,7 +9362,7 @@ GameObject:
   - component: {fileID: 1522736478746891896}
   - component: {fileID: 1522736478746891899}
   - component: {fileID: 1522736478746891844}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: mid brainleft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9623,7 +9623,7 @@ GameObject:
   - component: {fileID: 1522736478801693131}
   - component: {fileID: 1522736478801693129}
   - component: {fileID: 1522736478801693130}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9704,7 +9704,7 @@ GameObject:
   - component: {fileID: 1522736478802879749}
   - component: {fileID: 1522736478802879744}
   - component: {fileID: 1522736478802879745}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: pineal glandleft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9886,7 +9886,7 @@ GameObject:
   - component: {fileID: 1522736478805820654}
   - component: {fileID: 1522736478805820652}
   - component: {fileID: 1522736478805820653}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9965,7 +9965,7 @@ GameObject:
   - component: {fileID: 1522736478828825559}
   - component: {fileID: 1522736478828825560}
   - component: {fileID: 1522736478828825558}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Tip
   m_TagString: Untagged
   m_Icon: {fileID: 0}

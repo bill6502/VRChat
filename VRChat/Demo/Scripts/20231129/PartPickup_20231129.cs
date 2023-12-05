@@ -15,6 +15,8 @@ public class PartPickup_20231129 : UdonSharpBehaviour
 
     [SerializeField]
     private GameObject label;
+    [SerializeField, Range(-180f, 180f)]
+    private float offsetAngle = -90f;
     [SerializeField]
     private LineRenderer lineRenderer;
     [SerializeField]
@@ -57,18 +59,21 @@ public class PartPickup_20231129 : UdonSharpBehaviour
     {
         if (!tip || linePosition.Length == 0 || !label) return;
 
+        //show Label
         label.SetActive(tip.isShowLabel);
         lineRenderer.SetPosition(0, linePosition[0].position);
+        lineRenderer.SetPosition(1, linePosition[0].position);
         if (tip.isShowLabel)
             lineRenderer.SetPosition(1, linePosition[0].position + _position2);
-        else
-            lineRenderer.SetPosition(1, linePosition[0].position);
 
         label.transform.position = linePosition[0].position + _position2;
 
+        //look at player
         label.transform.LookAt(LocalPlayer.GetBonePosition(HumanBodyBones.Head));
-        label.transform.rotation *= Quaternion.AngleAxis(-90f, Vector3.up);
+        if (offsetAngle != 0f)
+            label.transform.rotation *= Quaternion.AngleAxis(offsetAngle, Vector3.up);
 
+        //check distance
         float distance = Vector3.Distance(Position.transform.position, transform.position);
         if (distance > Distance)
             isInside = false;

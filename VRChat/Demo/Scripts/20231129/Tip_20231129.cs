@@ -9,8 +9,6 @@ using VRC.Udon;
 public class Tip_20231129 : UdonSharpBehaviour
 {
     public PartPickup_20231129 Target;
-    // public Animator TipAnimator;
-    // public string TipParameterName = "index";
 
     [SerializeField]
     private Image image;
@@ -44,11 +42,7 @@ public class Tip_20231129 : UdonSharpBehaviour
 
     public void tip()
     {
-        // if (Target.isInside) return;
-
-        // bool isResetPosition = Target.transform.position == Target.Position.transform.position && Target.transform.rotation == Target.Position.transform.rotation;
         isShowLabel = !isShowLabel;
-        // TipAnimator.SetBool(TipParameterName, isShowLabel);
 
         if (isShowLabel)
             image.color = clicked;
