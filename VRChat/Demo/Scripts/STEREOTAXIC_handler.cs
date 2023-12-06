@@ -14,12 +14,13 @@ public class STEREOTAXIC_handler : UdonSharpBehaviour
     [SerializeField]
     private Slider slider;
 
-    [UdonSynced, FieldChangeCallback(nameof(SetParameter))]
+    [UdonSynced, FieldChangeCallback(nameof(ParameterSynced))]
     private float ParameterValue;
-    public float SetParameter
+    public float ParameterSynced
     {
         set
         {
+            Debug.Log("call Sync");
             slider.value = value;
             ParameterValue = value;
 
@@ -39,8 +40,7 @@ public class STEREOTAXIC_handler : UdonSharpBehaviour
     {
         Networking.SetOwner(LocalPlayer, gameObject);
 
-        ParameterValue = slider.value;
-        animator.SetFloat(ParameterName, ParameterValue);
+        ParameterSynced = slider.value;
         RequestSerialization();
     }
 
